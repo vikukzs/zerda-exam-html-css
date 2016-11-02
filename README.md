@@ -81,6 +81,7 @@ Add your answer to this readme file, commit your changes to this repository.
 </html>
 ```
 #### Your answer: [2p]
+The distance is 40px, because the blue box is positioned 20px far from the top and left side of the body, and the yellow box is positioned 20px far from the top and the left side of the blue box.
 
 
 ## 3. Explain concepts (~15 minutes) [4 points]
@@ -89,6 +90,8 @@ Add your answer to this readme file, commit your changes to this repository.
 
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
+'display:block' this property displays the elements as block items, aligns them on top of each other as default.
+'display:inline'
 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
