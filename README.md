@@ -99,6 +99,8 @@ Add your answer to this readme file, commit your changes to this repository.
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
 
-'<section>' this element defines a section of a document eg. thematically coherent content, it usually contains a heading as a child and is identified by that heading.
+'<section>' use this to section the document, article, page etc. into thematically coherent content, it usually contains a heading as a child and is identified by that heading.
 
 '<article>' this element is an independent content of a document, page, etc., it should make sense on its own and have a heading as a child. Eg.: forum posts, blog posts, newspaper articles.
+
+You can section an article but you cannot article a section.
