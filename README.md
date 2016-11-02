@@ -91,8 +91,10 @@ Add your answer to this readme file, commit your changes to this repository.
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
 'display:block' this property displays the elements as block items, aligns them on top of each other as default.
-'display:inline'
 
+'display:inline' this property displays the elements inline
+
+'display:inline-block' displays the elements as block items, aligns them inline
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
